@@ -54,10 +54,10 @@ An app that lets user plan any kind of trips in advance. Users can add important
 
 ### 2. Screen Archetypes
 
-- [ ] Trips Screen
-* User can view all the trips they planned.
-* User can mark trips as done. 
-* User can delete trips. 
+- Trips Screen
+    -  User can view all the trips they planned.
+    - User can mark trips as done. 
+    - User can delete trips. 
 - Add screen 
     -  User can add new trips with details.
 -  Edit screen
