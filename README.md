@@ -77,10 +77,10 @@ An app that lets user plan any kind of trips in advance. Users can add important
 **Flow Navigation** (Screen to Screen)
 
 - Trip list screen
-    => Add Trip
-    => Edit trip
+  - => Add Trip
+  - => Edit trip
 - Calender view
-    => Trips on specifit date. 
+  - => Trips on specifit date. 
 
 
 ## Wireframes
