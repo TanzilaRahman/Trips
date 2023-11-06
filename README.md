@@ -58,12 +58,12 @@ An app that lets user plan any kind of trips in advance. Users can add important
 * User can view all the trips they planned.
 * User can mark trips as done. 
 * User can delete trips. 
-- [ ] Add screen 
-* User can add new trips with details. 
-- [ ] Edit screen
-* User can edit existing trips. 
-- [ ] Calender screen
-* User can view the calender and existing trips on specific dates. 
+- Add screen 
+    -  User can add new trips with details.
+-  Edit screen
+    - User can edit existing trips. 
+- Calender screen
+    - User can view the calender and existing trips on specific dates. 
 
 
 ### 3. Navigation
@@ -85,8 +85,8 @@ An app that lets user plan any kind of trips in advance. Users can add important
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![wireframe](https://github.com/TanzilaRahman/Trip-planner/assets/110073037/2d0a2c47-ad3d-4343-8dcc-3ecb1d4a18fc)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
