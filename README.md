@@ -111,3 +111,4 @@ An app that lets user plan any kind of trips in advance. Users can add important
 ### Progress
 - [x] App icon
 - [x] Launch Screen
+  - Currently working on the next features of the app as well as coding.  
