@@ -39,18 +39,18 @@ An app that lets user plan any kind of trips in advance. Users can add important
 
 **Required Must-have Stories**
 
-* Users can add new Trips with name and description, members and date of the trip.
-* Users can view planned trips
-* Users can edit the trips.
-* Users can mark trips as done.
-* Users can delete trips.
+- [ ] Users can add new Trips with name and description, members and date of the trip.
+- [ ] Users can view planned trips
+- [ ] Users can edit the trips.
+- [ ] Users can mark trips as done.
+- [ ] Users can delete trips.
 
 
 **Optional Nice-to-have Stories**
 
-* Users can see the trip in calender view.  
-* Users can mark a trip as favourite and access it from favourite section
-* Users can share the trip details with others
+- [ ] Users can see the trip in calender view.  
+- [ ] Users can mark a trip as favourite and access it from favourite section
+- [ ] Users can share the trip details with others
 
 
 ### 2. Screen Archetypes
