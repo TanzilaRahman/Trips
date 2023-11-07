@@ -9,6 +9,7 @@ Original App Design Project - README Template
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+5. [Progress](#Progress)
 
 ## Overview
 
@@ -100,8 +101,13 @@ An app that lets user plan any kind of trips in advance. Users can add important
 
 [Add table of models]
 
+
 ### Networking
 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+### Progress
+[x] App icon
+[x] Launch Screen
