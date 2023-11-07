@@ -38,7 +38,8 @@ An app that lets user plan any kind of trips in advance. Users can add important
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-
+- [x] App icon
+- [x] Launch Screen
 - [ ] Users can add new Trips with name and description, members and date of the trip.
 - [ ] Users can view planned trips
 - [ ] Users can edit the trips.
@@ -111,4 +112,8 @@ An app that lets user plan any kind of trips in advance. Users can add important
 ### Progress
 - [x] App icon
 - [x] Launch Screen
+
+https://github.com/TanzilaRahman/Trip-planner/assets/110073037/933f468b-9744-4939-82a9-6ba6978f7f89
+
+
   - Currently working on the next features of the app as well as coding.  
