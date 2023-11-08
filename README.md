@@ -110,7 +110,8 @@ An app that lets user plan any kind of trips in advance. Users can add important
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 ## Progress
-#Sprint 1
+# Sprint 1
+
 - [x] App icon
 - [x] Launch Screen
 
