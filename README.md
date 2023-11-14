@@ -108,7 +108,11 @@ An app that lets user plan any kind of trips in advance. Users can add important
 - [x] App icon
 - [x] Launch Screen
 
-https://github.com/TanzilaRahman/Trip-planner/assets/110073037/933f468b-9744-4939-82a9-6ba6978f7f89
+
+
+https://github.com/TanzilaRahman/Trips/assets/110073037/a48e0eae-6362-421d-9f15-0a6fe4267bf8
+
+
 
 
 ## Sprint 2
