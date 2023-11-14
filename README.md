@@ -45,7 +45,7 @@ An app that lets user plan any kind of trips in advance. Users can add important
 - [x] User can view all the trips they planned in table view cells. 
 - [x] Users select the date and time when the notification will trigger and users will be notified similar to Reminders. 
 - [x] Users can view individual trip details through detail view screen. 
-- [ ] Users can delete trips.
+- [x] Users can delete trips.
 
 
 **Optional Nice-to-have Stories**
@@ -153,6 +153,10 @@ https://github.com/TanzilaRahman/Trips/assets/110073037/1ea1ea86-0a40-48db-a2b5-
 
 
 ## Sprint 5 
-currently working...
-- [ ] Users can delete trips.
+
+
+https://github.com/TanzilaRahman/Trips/assets/110073037/876bee65-365b-4c95-972d-259c44ae44cd
+
+
+- [x] Users can delete trips.
 
