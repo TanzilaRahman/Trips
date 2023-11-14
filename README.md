@@ -42,16 +42,14 @@ An app that lets user plan any kind of trips in advance. Users can add important
 - [x] Launch Screen
 - [ ] Users can add new Trips with name and description, members and date of the trip.
 - [ ] Users can view planned trips
-- [ ] Users can edit the trips.
-- [ ] Users can mark trips as done.
 - [ ] Users can delete trips.
 
 
 **Optional Nice-to-have Stories**
 
-- [ ] Users can see the trip in calender view.  
-- [ ] Users can mark a trip as favourite and access it from favourite section
 - [ ] Users can share the trip details with others
+- [ ] Users can edit the trips.
+- [ ] Users can mark trips as done.
 
 
 ### 2. Screen Archetypes
@@ -118,4 +116,16 @@ An app that lets user plan any kind of trips in advance. Users can add important
 https://github.com/TanzilaRahman/Trip-planner/assets/110073037/933f468b-9744-4939-82a9-6ba6978f7f89
 
 
-  - Currently working on the next features of the app as well as coding.  
+## Sprint 2
+- [x] Users can add new Trips with name and description, members and date of the trip.
+- [x] User can view all the trips they planned in table view cells. 
+- [x] Users select the date and time when the notification will trigger and users will be notified similar to Reminders. 
+
+https://github.com/TanzilaRahman/Trip-planner/assets/110073037/9c241167-2134-4a6d-9892-0b67a67b6b16
+
+
+## Sprint 3
+- [x] Demo of how Notification will be shown according to users set date and time. 
+- [x] Users can view individual trip details through detail view screen. 
+- [x] Users can delete 
+
