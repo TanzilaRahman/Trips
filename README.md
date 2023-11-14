@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# Trip Planner
+# Trips
 
 ## Table of Contents
 
