@@ -88,8 +88,8 @@ An app that lets user plan any kind of trips in advance. Users can add important
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-
-[This section will be completed in Unit 9]
+not required as mentioned by TF
+[This section will be completed in Unit 9] 
 
 ### Models
 
@@ -103,6 +103,12 @@ An app that lets user plan any kind of trips in advance. Users can add important
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 # Progress
+Unit-9 Progress:
+
+
+https://github.com/TanzilaRahman/Trips/assets/110073037/1f270db2-ec65-45d5-a427-5caeea97834d
+
+
 ## Sprint 1
 
 - [x] App icon
