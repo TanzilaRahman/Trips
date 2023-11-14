@@ -1,7 +1,7 @@
 # Brainstorming 
 ## App Ideas:
 
-1. Trip Planner: An app that lets user plan trips in advance. Users can add important details such as address, date, description of the trip as well as the members who will be joining them for the trip.
+1. Trips: An app that lets user plan trips in advance. Users can add important details such as address, date, description of the trip as well as the members who will be joining them for the trip. They will get notification reminder about the trip based on set time and date. 
 
 2. Recipe Keeper: An app that lets users write recipes of their own as well as share with others. This app will be useful in not only keeping recipes in one place for future need, but users can also share it with friends and family. The app will let users add name, duration, ingredients, procedure, and picture of the recipe. 
 
@@ -12,7 +12,7 @@
 5. Assignment Tracker: Users can track the due date for assignments, exams, etc. They can also add links to important sites related to each assignment as well as plan each assignment in one place, before doing the assignment. 
 
 ## Top 2 Apps and Evaluation:
-1. Trip Planner
+1. Trips
    - **Description**: User plan trips in advance. Users can add important details such as address, date, description of the trip as well as the members who will be joining them for the trip. 
    - **Category:** Travel
    - **Mobile:** Mobile is essential for planning trips quickly, accessing it even when not connected to the internet. Users can lookup directions, add members name and/or contact numbers, other important details for each trips.
