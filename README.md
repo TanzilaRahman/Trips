@@ -154,9 +154,10 @@ https://github.com/TanzilaRahman/Trips/assets/110073037/1ea1ea86-0a40-48db-a2b5-
 
 ## Sprint 5 
 
-
+- [x] Users can delete trips.
+      
 https://github.com/TanzilaRahman/Trips/assets/110073037/876bee65-365b-4c95-972d-259c44ae44cd
 
 
-- [x] Users can delete trips.
+
 
