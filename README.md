@@ -88,7 +88,7 @@ An app that lets user plan any kind of trips in advance. Users can add important
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-not required as mentioned by TF
+- not required as mentioned by TF
 [This section will be completed in Unit 9] 
 
 ### Models
