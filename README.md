@@ -120,14 +120,22 @@ https://github.com/TanzilaRahman/Trips/assets/110073037/a48e0eae-6362-421d-9f15-
 - [x] User can view all the trips they planned in table view cells. 
 - [x] Users select the date and time when the notification will trigger and users will be notified similar to Reminders. 
 
-https://github.com/TanzilaRahman/Trip-planner/assets/110073037/9c241167-2134-4a6d-9892-0b67a67b6b16
+
+
+
+https://github.com/TanzilaRahman/Trips/assets/110073037/58376c7d-e5c8-4fd6-b4a6-db0153554911
+
 
 
 ## Sprint 3
 - [x] Demo of how Notification will be shown (according to users set date and time).
 
 
-https://github.com/TanzilaRahman/Trip-planner/assets/110073037/aa4cabbb-ed87-4018-87cd-295c5fdae71b
+
+
+
+
+https://github.com/TanzilaRahman/Trips/assets/110073037/d988a1a4-a4bc-409d-afd6-d93d5d81d3ef
 
 
 
@@ -137,7 +145,10 @@ https://github.com/TanzilaRahman/Trip-planner/assets/110073037/aa4cabbb-ed87-401
 
 
 
-https://github.com/TanzilaRahman/Trip-planner/assets/110073037/f564c968-5b10-44ce-8bbf-f694e8d72b44
+
+https://github.com/TanzilaRahman/Trips/assets/110073037/1ea1ea86-0a40-48db-a2b5-96148f8d2fa6
+
+
 
 
 
