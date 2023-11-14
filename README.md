@@ -40,14 +40,16 @@ An app that lets user plan any kind of trips in advance. Users can add important
 **Required Must-have Stories**
 - [x] App icon
 - [x] Launch Screen
-- [ ] Users can add new Trips with name and description, members and date of the trip.
-- [ ] Users can view planned trips
+- [x] Users can add new Trips with name and description, members and date of the trip.
+- [x] Users can set alert/Notification with Date and Time for reminder of each trip.
+- [x] User can view all the trips they planned in table view cells. 
+- [x] Users select the date and time when the notification will trigger and users will be notified similar to Reminders. 
+- [x] Users can view individual trip details through detail view screen. 
 - [ ] Users can delete trips.
 
 
 **Optional Nice-to-have Stories**
 
-- [ ] Users can share the trip details with others
 - [ ] Users can edit the trips.
 - [ ] Users can mark trips as done.
 
@@ -55,32 +57,25 @@ An app that lets user plan any kind of trips in advance. Users can add important
 ### 2. Screen Archetypes
 
 - Trips Screen
-    -  User can view all the trips they planned.
-    - User can mark trips as done. 
+    - User can view all the trips they planned.
+    - User can add new trips with + button.
     - User can delete trips. 
 - Add screen 
-    -  User can add new trips with details.
--  Edit screen
-    - User can edit existing trips. 
-- Calender screen
-    - User can view the calender and existing trips on specific dates. 
-
+    -  User can add new trips with details
+    -  User can set the time and date for reminder of the trip, whether days before, or on the same day. 
+- Detail View screen
+    - User can view the trip, details and the date and time set for the specific trip in a detail view screen when tapping the trip from table view cells. 
 
 ### 3. Navigation
 
-**Tab Navigation** (Tab to Screen)
-
-* Trips
-* Calender
-* Favourite (Optional)
 
 **Flow Navigation** (Screen to Screen)
 
 - Trip list screen
   - => Add Trip
-  - => Edit trip
-- Calender view
-  - => Trips on specifit date. 
+  - => Detail View of each trip
+- Notification
+  - =>Based on the set date and time, users will get notified of the particular trip. 
 
 
 ## Wireframes
@@ -125,7 +120,24 @@ https://github.com/TanzilaRahman/Trip-planner/assets/110073037/9c241167-2134-4a6
 
 
 ## Sprint 3
-- [x] Demo of how Notification will be shown according to users set date and time. 
+- [x] Demo of how Notification will be shown (according to users set date and time).
+
+
+https://github.com/TanzilaRahman/Trip-planner/assets/110073037/aa4cabbb-ed87-4018-87cd-295c5fdae71b
+
+
+
+## Sprint 4
 - [x] Users can view individual trip details through detail view screen. 
-- [x] Users can delete 
+
+
+
+
+https://github.com/TanzilaRahman/Trip-planner/assets/110073037/f564c968-5b10-44ce-8bbf-f694e8d72b44
+
+
+
+## Sprint 5 
+currently working...
+- [ ] Users can delete trips.
 
