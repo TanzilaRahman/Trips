@@ -15,7 +15,7 @@ Original App Design Project - README Template
 
 ### Description
 
-An app that lets user plan any kind of trips in advance. Users can add important details such as address, date, description of the trip as well as the members who will be joining them for the trip. 
+An app that lets user plan any kind of trips in advance. Users can add important details such as address, date, description of the trip as well as the members who will be joining them for the trip. Users will get notification reminder about the trip depending on their set date and time for the alert. 
 
 ### App Evaluation
 
@@ -24,13 +24,13 @@ An app that lets user plan any kind of trips in advance. Users can add important
 - **Mobile:**
     - Mobile is essential for planning trips quickly, accessing it even when not connected to the internet. Users can lookup directions, add members name and/or contact numbers, other important details for each trips.
 - **Story:**
-    - Essential for users to plan travelling ahead of time and organize it efficiently. Users can plan trips whether it's a short trip (movies/ musicals/ dinning out/ museum/ hiking/ concert), solo trip, weekend getaway, or family vacation. They can also add information about friends/family or other members who will be joining them on the trip.  
+    - Essential for users to plan travelling ahead of time and organize it efficiently. Users can plan trips whether it's a short trip (movies/ musicals/ dinning out/ museum/ hiking/ concert), solo trip, weekend getaway, or family vacation. They can also add information about friends/family or other members who will be joining them on the trip. They will get notification reminder about the trip based on their set time and date.  
 - **Market:**
     - Any person with access to phone can use and benifit from this app. Future Advance ideas: For monetization, the app can have features to recommend places to visit according to the users current location. Such as a new Restaurant that opened up/ new movie releases in near theatres, etc.
 - **Habit:**
     - Planning trips ahead, making travelling less hectic and more fun. Users can quickly write down their trip ideas and not have fear of forgetting about it later.
 - **Scope:**
-    - V1 would allow users to add trip name, details, members, date and access it anytime. Once the trip is over, they can mark it as done. Later versions could implement more advance features such as adding links to google maps for the address of the destination, feature to share the trip details with other members. Adding destinations from recommended sections to favourites section for future trip planning. 
+    - V1 would allow users to add trip name, details, members, date and access it anytime. User get notification reminder about the trip whether few days ahead or on the same date and time, based on their preferance. Later versions could implement more advance features such as adding links to google maps for the address of the destination, feature to share the trip details with other members. Adding destinations from recommended sections to favourites section for future trip planning. 
 
 
 ## Product Spec
